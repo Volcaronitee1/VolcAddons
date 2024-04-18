@@ -34,7 +34,7 @@
 2. **Install ChatTriggers:** You'll need [ChatTriggers](https://www.chattriggers.com) installed for advanced in-game functionality.
 
 ### <u>Installation:</u>
-1. **Download:** Download the [VolcAddons-1.0.jar](https://raw.githubusercontent.com/zhenga8533/VolcAddons/main/forge/VolcAddons-1.0.jar) file.
+1. **Download:** Download the [VolcAddons-1.0.jar](https://raw.githubusercontent.com/Volcaronitee1/VolcAddons/main/forge/VolcAddons-1.0.jar) file.
 
 2. **Integration:** Drag into Minecraft mods folder (NOT the CT modules folder).
 
