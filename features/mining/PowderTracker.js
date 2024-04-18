@@ -3,7 +3,7 @@ import { AQUA, BLUE, BOLD, DARK_GREEN, GREEN, LIGHT_PURPLE, LOGO, RED, WHITE } f
 import { commafy, getTime } from "../../utils/functions/format";
 import { Overlay } from "../../utils/overlay";
 import { Stat, data, getPaused, registerWhen } from "../../utils/variables";
-import { getWorld } from "../../utils/worlds";
+import { getWorld } from "../../utils/worlds"; 
 
 
 /**
