@@ -4,7 +4,7 @@ import { getTime } from "../../utils/functions/format";
 import { Overlay } from "../../utils/overlay";
 import { data, registerWhen } from "../../utils/variables";
 import { getWorld } from "../../utils/worlds"; 
-
+ 
 
 /**
  * Variables used to track and display fishing timer.
