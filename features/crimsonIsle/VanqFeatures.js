@@ -3,7 +3,7 @@ import { AMOGUS, BOLD, DARK_PURPLE, GREEN, LOGO, RED, RESET, WHITE, WITHER_CLASS
 import { announceMob, playSound } from "../../utils/functions/misc";
 import { getInParty } from "../../utils/party";
 import { delay } from "../../utils/thread";
-import { Overlay } from "../../utils/overlay";
+import { Overlay } from "../../utils/overlay"; 
 import { data, registerWhen } from "../../utils/variables";
 import { Hitbox, renderEntities } from "../../utils/waypoints";
 import { findZone, getWorld } from "../../utils/worlds";
