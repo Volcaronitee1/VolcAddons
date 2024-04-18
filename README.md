@@ -6,7 +6,7 @@
 
 <p align="center">
     </br>
-    <img src="https://img.shields.io/github/v/release/Volcaronitee1/VolcAddons?style=flat-square" alt="GitHub release (latest by date)">
+    <img src="https://img.shields.io/github/v/release/Volcaronitee1/VolcAddons" alt="GitHub release (latest by date)">
     <img src="https://img.shields.io/github/languages/code-size/zhenga8533/VolcAddons?style=flat-square" alt="Code Size">
     <img src="https://img.shields.io/github/license/zhenga8533/VolcAddons?style=flat-square" alt="License">
     <a href="https://github.com/zhenga8533/VolcAddons/releases/latest">
