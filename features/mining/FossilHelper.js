@@ -9,7 +9,7 @@ const FOSSILS = {
     "7.7%": [Image.fromAsset("Footprint.png"), Image.fromAsset("Claw.png")],
     "10%": [Image.fromAsset("Webbed.png")],
     "12.5%": [Image.fromAsset("Tusk.png")],
-    "9.1%": [Image.fromAsset("Clubbed.png")],
+    "9.1%": [Image.fromAsset("Clubbed.png")], 
     "6.2%": [Image.fromAsset("Ugly.png")]
 };
 let possible = [];
