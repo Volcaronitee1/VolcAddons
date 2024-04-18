@@ -31,6 +31,7 @@ import org.apache.commons.compress.archivers.zip.ZipArchiveInputStream;
 public class VolcAddons {
     public static final String MODID = "VolcAddons";
     public static final String VERSION = "1.0";
+    public static final String VOLCVERSION = "2.9.1";
     public static VolcAddons INSTANCE;
 
     String modDir = System.getProperty("user.home");
