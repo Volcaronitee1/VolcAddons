@@ -1,6 +1,6 @@
 package com.volca.VolcAddons; 
 
-import com.google.gson.JsonObject; 
+import com.google.gson.JsonObject;
 import com.google.gson.JsonParser; 
 import net.minecraft.client.Minecraft;
 import net.minecraft.event.ClickEvent;
