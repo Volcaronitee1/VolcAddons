@@ -8,7 +8,7 @@ import { getInParty, getIsLeader, getParty } from "./utils/party";
 import { openGUI } from "./utils/overlay";
 import { delay } from "./utils/thread";
 import { getLatestReleaseVersion } from "./utils/updates";
-import { data, resetGUI, updateList } from "./utils/variables";
+import { data, resetGUI, updateList } from "./utils/variables"; 
 import { findZone, getTier, getWorld } from "./utils/worlds";
 // Utility Variable Control
 const CHANGED_SETTINGS = new Set(["itemPrice", "bossAlert", "miniAlert", "vanqCounter"]);
