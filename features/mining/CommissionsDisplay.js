@@ -3,7 +3,7 @@ import { data, registerWhen } from "../../utils/variables";
 import { getWorld } from "../../utils/worlds";
 import { Overlay } from "../../utils/overlay";
 import { getClosest } from "../../utils/functions/find";
-import { BOLD, GOLD, GREEN, UNDERLINE, YELLOW } from "../../utils/constants";
+import { BOLD, GOLD, GREEN, UNDERLINE, YELLOW } from "../../utils/constants"; 
 
 
 const GEMSTONE_WAYPOINTS = {
