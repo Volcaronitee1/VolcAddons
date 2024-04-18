@@ -3,7 +3,7 @@ import toggles from "../../utils/toggles";
 import {AQUA, BOLD, DARK_PURPLE, DARK_RED, GHAST_CLASS, GRAY, GREEN, MUSIC, RED, WHITE} from "../../utils/constants";
 import { playSound } from "../../utils/functions/misc";
 import { registerWhen } from "../../utils/variables";
-import { getWorld } from "../../utils/worlds";
+import { getWorld } from "../../utils/worlds"; 
 
 
 /**
