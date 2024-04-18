@@ -7,32 +7,24 @@
 <p align="center">
     </br>
     <img src="https://img.shields.io/github/v/release/Volcaronitee1/VolcAddons" alt="GitHub release (latest by date)">
-    <img src="https://img.shields.io/github/languages/code-size/zhenga8533/VolcAddons?style=flat-square" alt="Code Size">
-    <img src="https://img.shields.io/github/license/zhenga8533/VolcAddons?style=flat-square" alt="License">
-    <a href="https://github.com/zhenga8533/VolcAddons/releases/latest">
+    <img src="https://img.shields.io/github/languages/code-size/Volcaronitee1/VolcAddons?style=flat-square" alt="Code Size">
+    <img src="https://img.shields.io/github/license/Volcaronitee1/VolcAddons?style=flat-square" alt="License">
+    <a href="https://github.com/Volcaronitee1/VolcAddons/releases/latest">
         <img src="https://img.shields.io/github/downloads/zhenga8533/VolcAddons/total?style=flat-square" alt="Downloads">
     </a>
-    <img src="https://img.shields.io/github/last-commit/zhenga8533/VolcAddons?style=flat-square" alt="Last Commit">
+    <img src="https://img.shields.io/github/last-commit/Volcaronitee1/VolcAddons?style=flat-square" alt="Last Commit">
     </br>
-    <a href="https://raw.githubusercontent.com/zhenga8533/VolcAddons/main/forge/VolcAddons-1.0.jar">
+    <a href="https://raw.githubusercontent.com/Volcaronitee1/VolcAddons/main/forge/VolcAddons-1.0.jar">
         <img src="https://img.shields.io/badge/GitHub-Forge%20Download-blue?style=for-the-badge&logo=github">
-    </a>
-    <a href="https://discord.gg/ftxB4kG2tw">
-        <img src="https://img.shields.io/discord/1136805313287299092?color=%237289DA&label=Discord&logo=discord&logoColor=white&style=for-the-badge" alt="Discord Server">
     </a>
 </p>
 
 ## Table of Contents
 
-- [Website](#website)
 - [Setup](#setup)
 - [Commands](#commands)
 - [Features](#features)
 </br>
-
-## Website
-
-You can also view this page on the VolcAddons [website](https://zhenga8533.github.io/VolcAddons/).
 
 ## Setup
 
