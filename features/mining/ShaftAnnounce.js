@@ -1,6 +1,6 @@
 import settings from "../../utils/settings";
 import { getClosest } from "../../utils/functions/find";
-import { getInParty, getIsLeader } from "../../utils/party";
+import { getInParty, getIsLeader } from "../../utils/party"; 
 import { registerWhen } from "../../utils/variables";
 import { getWorld } from "../../utils/worlds";
 import { delay } from "../../utils/thread";
