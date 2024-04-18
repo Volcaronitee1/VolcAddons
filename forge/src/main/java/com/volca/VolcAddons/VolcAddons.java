@@ -14,7 +14,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.eventhandler.EventBus;
 import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.minecraft.util.ChatComponentText;
-import net.minecraft.entity.player.EntityPlayer;
+import net.minecraft.entity.player.EntityPlayer; 
 
 import java.io.*;
 import java.net.HttpURLConnection;
