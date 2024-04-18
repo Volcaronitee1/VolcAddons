@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://zhenga8533.github.io/VolcAddons/" target="_blank">
+    <a href="https://github.com/Volcaronitee1/VolcAddons" target="_blank">
       <img width="69%" src="https://i.imgur.com/tue81fa.png" alt="VolcAddons Logo">
     </a>
 </p>
