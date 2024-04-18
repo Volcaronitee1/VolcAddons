@@ -4,7 +4,7 @@ import { getPerks } from "../../utils/mayor";
 import { playSound } from "../../utils/functions/misc";
 import settings from "../../utils/settings";
 import { delay } from "../../utils/thread";
-import { registerWhen } from "../../utils/variables";
+import { registerWhen } from "../../utils/variables"; 
 import { getWorld } from "../../utils/worlds";
 
 
