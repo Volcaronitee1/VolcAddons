@@ -5,7 +5,7 @@ import { getInParty } from "../../utils/party";
 import { data, registerWhen } from "../../utils/variables";
 import { getWorld } from "../../utils/worlds";
 import { getSlayerBoss } from "../combat/SlayerDetect";
-import { renderEntities } from "../../utils/waypoints";
+import { renderEntities } from "../../utils/waypoints"; 
 
 
 
