@@ -3,7 +3,7 @@ import { BOLD, DARK_RED, GOLD, RESET, WHITE } from "../../utils/constants";
 import { getTime } from "../../utils/functions/format";
 import { Overlay } from "../../utils/overlay";
 import { data, registerWhen } from "../../utils/variables";
-import { getWorld } from "../../utils/worlds";            
+import { getWorld } from "../../utils/worlds";             
  
 
 /**
