@@ -2,7 +2,7 @@ import { GIANT_CLASS, STAND_CLASS } from "../../utils/constants";
 import settings from "../../utils/settings";
 import { registerWhen } from "../../utils/variables";
 import { getWorld } from "../../utils/worlds";
-import { getPhase } from "./KuudraSplits";
+import { getPhase } from "./KuudraSplits"; 
 
 
 /**
