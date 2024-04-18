@@ -3,7 +3,7 @@ import { AQUA, BLUE, BOLD, DARK_AQUA, DARK_GRAY, DARK_PURPLE, GOLD, GRAY, GREEN,
 import { convertToTitleCase } from "../../utils/functions/format";
 import { Overlay } from "../../utils/overlay";
 import { data, getPaused, registerWhen } from "../../utils/variables";
-import { getWorld } from "../../utils/worlds";
+import { getWorld } from "../../utils/worlds"; 
 
 
 /**
