@@ -17,7 +17,7 @@ import net.minecraft.util.ChatComponentText;
 import net.minecraft.entity.player.EntityPlayer; 
 
 import java.io.*;
-import java.net.HttpURLConnection;
+import java.net.HttpURLConnection; 
 import java.net.URL;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
