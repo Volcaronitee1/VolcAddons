@@ -44,7 +44,7 @@ registerWhen(register("step", () => {
  */
 new Hitbox(() => getWorld() === "Catacombs" && (settings.starDetect === 2 || settings.starDetect === 3), () => {
     const c = settings.starColor;
-    Object.keys(starMobs).forEach(key => {
+    Object.keys(starMobs).forEach(key => { 
         // Check dead
         const mob = starMobs[key];
         try { if (mob.func_110143_aJ() == 0) return; }
