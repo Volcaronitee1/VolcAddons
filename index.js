@@ -1,4 +1,4 @@
-// Utility Modules
+// Utility Modules 
 import "./utils/player";
 import settings from "./utils/settings";
 import toggles from "./utils/toggles";
