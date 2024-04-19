@@ -1,5 +1,5 @@
 /**
- * Color codes.
+ * Color codes. 
  */
 export const BLACK = '§0';
 export const DARK_BLUE = '§1';
