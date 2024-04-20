@@ -13,6 +13,7 @@ const FOSSILS = {
     "6.2%": [Image.fromAsset("Ugly.png")]
 };
 let possible = [];
+let others = [];
 const background = new Gui();
 
 const renderFossil = register("guiRender", () => {
