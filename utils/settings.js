@@ -2,9 +2,9 @@ import { AQUA, BLUE, BOLD, DARK_AQUA, DARK_BLUE, DARK_RED, GRAY, GREEN, HEADER, 
 import toggles from "./toggles";
 import {
     @TextProperty,
-	@PercentSliderProperty,
-	@SliderProperty,
-	@SwitchProperty,
+    @PercentSliderProperty,
+    @SliderProperty,
+    @SwitchProperty,
     @ButtonProperty,
     @Vigilant,
     @CheckboxProperty,
