@@ -95,16 +95,16 @@ ${ITALIC}Related Commands: /va <enigma, npc, zone>`);
         subcategory: "Essential"
     })
     skyblockToggle = true;
-    
+
     @ButtonProperty({
-        name: "Discord",
-        description: `${RED}Please be mindful of Discord links in chat as they may pose a security risk! ${GRAY}Server very cool, much wow.`,
+        name: "GitHub Repository",
+        description: `The link to our official GitHub Repository. All updates will be posted here.`,
         category: "General",
         subcategory: "Essential",
-        placeholder: "Yamete Kudasai"
+        placeholder: "GitHub"
     })
-    discordLink() {
-        java.awt.Desktop.getDesktop().browse(new java.net.URI("https://discord.gg/ftxB4kG2tw"));
+    githubLink() {
+        java.awt.Desktop.getDesktop().browse(new java.net.URI("https://github.com/Volcaronitee1/VolcAddons"));
     }
 
     @ButtonProperty({
@@ -115,8 +115,19 @@ ${ITALIC}Related Commands: /va <enigma, npc, zone>`);
         placeholder: "Download"
     })
     downloadForge() {
-        const url = "https://raw.githubusercontent.com/zhenga8533/VolcAddons/main/forge/VolcAddons-1.0.jar";
+        const url = "https://raw.githubusercontent.com/Volcaronitee1/VolcAddons/main/forge/VolcAddons-1.0.jar";
         java.awt.Desktop.getDesktop().browse(new java.net.URI(url));
+    }
+
+    @ButtonProperty({
+        name: "Module Website",
+        description: "Official website for all Modules.",
+        category: "General",
+        subcategory: "Essential",
+        placeholder: "Website"
+    })
+    websiteLink() {
+        java.awt.Desktop.getDesktop().browse(new java.net.URI("https://volcaronitee1.github.io/"));
     }
     
     @ButtonProperty({
