@@ -12,4 +12,16 @@
     "- Fixed searchbar calculator showing NaN",
     "- Fixed powder tracker timer",
     "- Removed bestiary display (`/va wgl add bestiary`)"
+    "- Added chocolate egg waypoints",
+    "- Added chocolate egg announce",
+    "- Added wardrobe hotkeys",
+    "- Added `/va pl` (add party command prefixes)",
+    "- Changed comm waypoint to optional show line",
+    "- Changed fossil helper to bug out less",
+    "- Changed skill tracker to use container menu",
+    "- Fixed new enchants in value calc",
+    "- Fixed chocolate timer and display",
+    "- Fixed widget displays extending info",
+    "- Fixed first title sometimes not rendering",
+    "- Removed total trophy fish overlay"
 ]
