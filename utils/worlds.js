@@ -16,7 +16,7 @@ export function getServer() { return server };
 let noFind = 0;
 
 /**
- * Load server ID on chat message
+ * Load server ID on chat message 
  */
 register("chat", (serv) => {
     server = serv;
