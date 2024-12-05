@@ -1,7 +1,7 @@
 /**
  * Essentials threading library.
  */
-const Threading = Java.type("gg.essential.api.utils.Multithreading");
+const Threading = Java.type("gg.essential.api.utils.Multithreading"); 
 
 /**
  * Adds a delay before executing a function or runs the function asynchronously.
