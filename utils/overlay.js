@@ -5,7 +5,7 @@ import { getWorld } from "./worlds";
 
 
 /**
- * Render scaled text on a graphical canvas or rendering context .
+ * Render scaled text on a graphical canvas or rendering context.
  *
  * @param {Number} scale - The scale factor to apply to the text.
  * @param {String} text - The text to be rendered.
