@@ -182,6 +182,14 @@ register("guiKey", (_, keyCode, gui) => {
   }
 });
 
+loadRegister(e, () => {
+  if (e == "unloaded_register) {
+      // make sure register is loaded
+      let reg = recippeKey.getKeyCode;
+      return;
+  }
+}
+
 /**
  * Open settings GUI.
  */
