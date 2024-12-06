@@ -12,6 +12,10 @@ const crits = [];
 const overloads = [];
 const nonCrits = [];
 
+let alpha = 0;
+let beta = 0;
+let gamma = 0;
+
 let start = 0;
 let last = 0;
 
