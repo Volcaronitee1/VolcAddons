@@ -11,10 +11,10 @@ import Settings from "../../utils/Settings";
 /**
  * Variables used to track and display Cells Alignment time.
  */
-let align = 0;
-let cd = 0;
 const gyroExample = `${GREEN + BOLD}Align Timer: ${RESET}LEAK?!`;
 const gyroOverlay = new Overlay("gyroTimer", data.GL, "moveGyro", gyroExample);
+let align = 0;
+let cd = 0;
 
 /**
  * Detects whenever you get affected by "Cell's Alignment".
